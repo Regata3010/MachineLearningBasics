@@ -1,0 +1,45 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# ML Models & Weights
+*.pkl
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.pb
+saved_models/
+checkpoints/
+
+# Large Data Files
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.hdf5
+*.xlsx
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
